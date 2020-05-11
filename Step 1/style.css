@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+header{
+  max-width: 1180px;
+  margin: 0 auto;
+}
+main{
+  max-width: 1180px;
+  margin: 0 auto;
+}
+h1{
+  margin-bottom: 48px;
+  margin-top: 48px
+}
